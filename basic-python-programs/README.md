@@ -1,6 +1,6 @@
 # Basic Python Programs
 
-This folder contains *41 basic Python programs* for Class 12 Computer Science students.
+This folder contains a collection of *basic Python programs* for beginners and students learning python.
 
 ---
 
